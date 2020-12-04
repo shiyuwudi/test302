@@ -1,0 +1,20 @@
+PODS:
+  - GGWkCookie (0.1.0)
+  - WKCookieWebView (2.0.3)
+
+DEPENDENCIES:
+  - GGWkCookie
+  - WKCookieWebView (~> 2.0)
+
+SPEC REPOS:
+  trunk:
+    - GGWkCookie
+    - WKCookieWebView
+
+SPEC CHECKSUMS:
+  GGWkCookie: 6b62f0463fb04b7ba779c8bfdcc01867c9ac9fcb
+  WKCookieWebView: 528260c9cf7d89d312d61639cfca75c5618326a2
+
+PODFILE CHECKSUM: 7ce51d228855f1b81bba5c6eb918f6471d2a7756
+
+COCOAPODS: 1.10.0
